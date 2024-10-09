@@ -1,1 +1,1 @@
-This is file5.txt out of dev directory.
+This is file5.txt out of dev directory
